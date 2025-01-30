@@ -1,4 +1,4 @@
-"**Delkurs 2-2**" 
+"**Delkurs 2-1**" 
 
 Svar på frågor samt modell av Mnist dataset finns i Notebook Mnist_Modell.ipynb
 
